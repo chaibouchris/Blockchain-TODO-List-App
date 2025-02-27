@@ -57,7 +57,13 @@ cd fireblocks
 ```
 
 ### 2️⃣ **Install Dependencies**
+To install all dependencies, run the following commands in the respective directories:
 ```sh
+# Install dependencies for the backend (server) in the main folder (fireblocks)
+npm install
+
+# Install dependencies for the frontend (client)
+cd client
 npm install
 ```
 
