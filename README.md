@@ -52,7 +52,7 @@ This project allows users to **add tasks, mark them as completed, and store them
 
 ### 1️⃣ **Clone the repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/fireblocks-todo.git
+git clone https://github.com/chaibouchris/Blockchain-TODO-List-App.git
 cd fireblocks
 ```
 
@@ -85,7 +85,7 @@ node checkBlockchainConnection.js
 Expected output:
 ```
 ✅ Successfully connected to Ethereum network
-✅ Wallet Balance (ETH): 0.1234
+✅ Wallet Balance (ETH): (some number)
 ✅ Smart contract is reachable
 ```
 If you encounter errors, ensure your `.env` file is correctly configured.
